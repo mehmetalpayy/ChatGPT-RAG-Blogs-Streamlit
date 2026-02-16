@@ -1,6 +1,4 @@
-<h1 align="center"><strong>CrewAI Coder System</strong></h1>
-
-# ChatGPT RAG Blogs Streamlit
+<h1 align="center"><strong>ChatGPT RAG Blogs Streamlit</strong></h1>
 
 ## Overview
 
